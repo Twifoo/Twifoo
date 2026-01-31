@@ -1,4 +1,2 @@
-- 👋 Bonjour, je suis Twifoo
-- 👀 Recherche Dev/Builder
-- 🌱 Me contacter pour partenariat
-- 📫 Fondateur d'Henprial
+- Developper / Cyber
+- 19yo from France
